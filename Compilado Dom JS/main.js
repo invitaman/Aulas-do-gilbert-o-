@@ -265,3 +265,25 @@ else if( hora >= 1 && hora <= 5)
   msgbase.classList.add("tituloSec");
 }
 */
+
+
+/*
+
+Pesquise, dê a definição e a utilização, com
+um exemplo, das seguintes funções em JS:
+❖ removeChild
+❖ replaceChild
+❖ insertBefore
+
+O método removeChild() remove um nó da árvore de documentos (DOM). Contudo, tome cuidado: esse método não é chamado no nó a ser removido, mas no pai desse nó (conforme implica a parte “child” de seu nome).
+
+replaceChild Substitui o elemento filho especificado por outro.
+
+insertBefore insertBefore() insere um nó antes do nó de referência como um filho de um nó pai especificado. Se o filho especificado for uma referência a um nó existente no documento, insertBefore() o moverá de sua posição atual para a nova posição (não há necessidade de remover o nó de seu nó pai antes de anexá-lo a outro nó)
+
+
+
+
+
+
+*/
